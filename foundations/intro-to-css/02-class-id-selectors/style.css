@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.peach{
+    font-weight:500px;
+    background-color: #ffa6a7;
+}
+.peach.nuts{
+    font-size:25px;
+
+}
+
+#mango{
+    color:blue;
+    font-size:30px;
+}
+
+#banana{
+    font-weight:bold;
+    background-color: greenyellow;
+}
